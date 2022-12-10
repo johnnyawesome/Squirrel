@@ -92,7 +92,6 @@ function preload() {
   birds.addAni("Robin", "../Sprites/Birds/Robin.png", { frameSize: [32, 32], frames: 3 });
   birds.addAni("Bluejay", "../Sprites/Birds/Bluejay.png", { frameSize: [32, 32], frames: 3 });
   birds.addAni("Sparrow", "../Sprites/Birds/Sparrow.png", { frameSize: [32, 32], frames: 3 });
-  birds.ani.frameDelay = 8;
   birds.collider = 'none';
   birds.speed = -2;
 }

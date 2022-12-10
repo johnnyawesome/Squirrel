@@ -15,6 +15,7 @@ function spawnBirds() {
     new birds.Sprite(round(random(500, 1500)), round(random(30, 150)));
     //Give the new Bird a random Texture
     birds[birds.length - 1].ani = ["Robin", "Bluejay", "Sparrow"][round(random(0, 2))];
+    birds[birds.length - 1].ani.frameDelay = 10;
   }
 }
 
