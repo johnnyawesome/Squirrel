@@ -3,7 +3,7 @@ A Pixel-Art Squirrel 🐿️ that lives in the Forest 🌳 and searches for Acor
 
 ![Squirrel](https://raw.githubusercontent.com/johnnyawesome/Squirrel/main/Squirrel/DemoImages/Squirrel.gif)
 
-## Copyright & Attribuition
+## Copyright & Attribution
 
 **Squirrel**: [Elthen](https://elthen.itch.io/2d-pixel-art-squirrel-sprites?download) / [Elthen on Patreon](https://www.patreon.com/posts/27430241) License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) / 
 **Forest-Assets**: [Ansimuz](https://ansimuz.itch.io/sunnyland-tall-forest) [License](https://ansimuz.itch.io/sunnyland-tall-forest)
