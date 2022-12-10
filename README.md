@@ -43,4 +43,22 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - On the Ground, the Acorn will roll around a bit
 - All these things are made possible by using the [Planck Physics Engine](https://piqnt.com/planck.js/) which is used by [P5.Play-Library](https://p5play.org/)
 
-##
+## 🌳The Forest🌳
+
+- The Forest consists of 3 different Tiles:
+- Two repeating Background-Tiles (Back & Far)
+- The third Tile (Middle) can be repeated, but we pick a random distance between them, to make the Forest look more natural
+- Since we have 3 layered Background-Tiles, we use them to create a [Parallax-Effect](https://en.wikipedia.org/wiki/Parallax)
+- This [Parallax-Effect](https://en.wikipedia.org/wiki/Parallax) creates an Illusion of depth, making the Forest look a bit "3D"
+
+## 🪴Decorations🪴
+
+- There are 2 different Moss-Sprites and 1 Plant-Sprite
+- We just scatter them around randomly on the Ground for some Eye-Candy
+
+## 🐦Birds🐦
+
+- Finally, there are 3 kinds of Birds 🐦 flying around
+- These birds get generated on-the-fly
+- Each time a Bird gets generated, a random Sprite gets picked out of a pool of 3 Sprites
+- When a Bird is too far from the Squirrel 🐿️ (which is what the Camera is centered on) it gets removed and a new Bird gets generated
