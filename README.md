@@ -65,4 +65,4 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 
 ## Related Projects
 
-I also coded a [Chicken Coop](https://github.com/johnnyawesome/ChickensAndBees) 🐔 using pure [P5JS](https://p5js.org/).
+I also coded a [Chicken Coop](https://github.com/johnnyawesome/ChickensAndBees) 🐔 using pure [P5JS](https://p5js.org/) goodness.
