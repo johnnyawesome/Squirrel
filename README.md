@@ -62,3 +62,7 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - These birds get generated on-the-fly
 - Each time a Bird gets generated, a random Sprite gets picked out of a pool of 3 Sprites
 - When a Bird is too far from the Squirrel 🐿️ (which is what the Camera is centered on) it gets removed and a new Bird gets generated
+
+## Related Projects
+
+I also coded a [Chicken Coop](https://github.com/johnnyawesome/ChickensAndBees) 🐔 using pure [P5JS](https://p5js.org/).
